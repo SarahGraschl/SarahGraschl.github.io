@@ -16,7 +16,9 @@ img {
 }
 
 video{
-  width: 20%;
+  width: 320;
+  height: auto;
+  controls;>
 }
 
 h1, p{
